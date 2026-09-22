@@ -1,0 +1,101 @@
+id,claim,gold_label
+1,The Moon is Earth's only natural satellite,SUPPORTS
+2,The Moon is made of cheese,REFUTES
+3,The Earth is approximately an oblate spheroid,SUPPORTS
+4,The Earth is a perfect cube,REFUTES
+5,The Eiffel Tower is located in Paris,SUPPORTS
+6,The Eiffel Tower is located in London,REFUTES
+7,Rome is the capital city of Italy,SUPPORTS
+8,Milan is the capital city of Italy,REFUTES
+9,Canberra is the capital of Australia,SUPPORTS
+10,Sydney is the capital of Australia,REFUTES
+11,Ottawa is the capital of Canada,SUPPORTS
+12,Toronto is the capital of Canada,REFUTES
+13,Brasilia is the capital of Brazil,SUPPORTS
+14,Rio de Janeiro is the capital of Brazil,REFUTES
+15,Tokyo is the capital of Japan,SUPPORTS
+16,Osaka is the capital of Japan,REFUTES
+17,Mount Everest is the highest mountain above sea level,SUPPORTS
+18,Mount Everest is located in South America,REFUTES
+19,The Pacific Ocean is the largest ocean on Earth,SUPPORTS
+20,The Atlantic Ocean is the largest ocean on Earth,REFUTES
+21,The Nile is a river in Africa,SUPPORTS
+22,The Nile flows through Antarctica,REFUTES
+23,The Amazon River is in South America,SUPPORTS
+24,The Amazon River is in Europe,REFUTES
+25,The Sahara is a desert in Africa,SUPPORTS
+26,The Sahara is a rainforest,REFUTES
+27,The Great Wall of China is in China,SUPPORTS
+28,The Great Wall of China is in India,REFUTES
+29,The Statue of Liberty is in New York Harbor,SUPPORTS
+30,The Statue of Liberty is in Los Angeles,REFUTES
+31,The Colosseum is located in Rome,SUPPORTS
+32,The Colosseum is located in Venice,REFUTES
+33,The Taj Mahal is in India,SUPPORTS
+34,The Taj Mahal is in Egypt,REFUTES
+35,The Pyramids of Giza are in Egypt,SUPPORTS
+36,The Pyramids of Giza are in Greece,REFUTES
+37,The Great Barrier Reef is in Australia,SUPPORTS
+38,The Great Barrier Reef is in the Mediterranean Sea,REFUTES
+39,The Amazon rainforest is primarily located in South America,SUPPORTS
+40,The Amazon rainforest is primarily located in Europe,REFUTES
+41,Water has the chemical formula H2O,SUPPORTS
+42,Water has the chemical formula CO2,REFUTES
+43,Carbon dioxide has the chemical formula CO2,SUPPORTS
+44,Carbon dioxide has the chemical formula H2O,REFUTES
+45,Oxygen has the chemical symbol O,SUPPORTS
+46,Oxygen has the chemical symbol Au,REFUTES
+47,Gold has the chemical symbol Au,SUPPORTS
+48,Gold has the chemical symbol Ag,REFUTES
+49,The chemical symbol for sodium is Na,SUPPORTS
+50,The chemical symbol for sodium is S,REFUTES
+51,The chemical symbol for iron is Fe,SUPPORTS
+52,The chemical symbol for iron is Ir,REFUTES
+53,The human heart has four chambers,SUPPORTS
+54,The human heart has two chambers,REFUTES
+55,The adult human body typically has 206 bones,SUPPORTS
+56,The adult human body typically has 306 bones,REFUTES
+57,Photosynthesis uses sunlight to help plants make food,SUPPORTS
+58,Photosynthesis occurs only in animals,REFUTES
+59,The Sun is a star,SUPPORTS
+60,The Sun is a planet,REFUTES
+61,Jupiter is the largest planet in the Solar System,SUPPORTS
+62,Mercury is the largest planet in the Solar System,REFUTES
+63,Mars is often called the Red Planet,SUPPORTS
+64,Mars is often called the Blue Planet,REFUTES
+65,Saturn is known for its prominent rings,SUPPORTS
+66,Saturn has no rings,REFUTES
+67,Venus is closer to the Sun than Earth is,SUPPORTS
+68,Venus is farther from the Sun than Neptune is,REFUTES
+69,Mercury is the closest planet to the Sun,SUPPORTS
+70,Mercury is the farthest planet from the Sun,REFUTES
+71,William Shakespeare wrote Romeo and Juliet,SUPPORTS
+72,William Shakespeare wrote The Odyssey,REFUTES
+73,George Orwell wrote Nineteen Eighty-Four,SUPPORTS
+74,George Orwell wrote The Divine Comedy,REFUTES
+75,Dante Alighieri wrote The Divine Comedy,SUPPORTS
+76,Dante Alighieri wrote Hamlet,REFUTES
+77,J. K. Rowling wrote the Harry Potter series,SUPPORTS
+78,J. K. Rowling wrote The Lord of the Rings,REFUTES
+79,The Lord of the Rings was written by J. R. R. Tolkien,SUPPORTS
+80,The Lord of the Rings was written by Stephen King,REFUTES
+81,Leonardo da Vinci painted the Mona Lisa,SUPPORTS
+82,Pablo Picasso painted the Mona Lisa,REFUTES
+83,Vincent van Gogh painted The Starry Night,SUPPORTS
+84,Claude Monet painted The Starry Night,REFUTES
+85,Ludwig van Beethoven composed Symphony No. 5,SUPPORTS
+86,Wolfgang Amadeus Mozart composed Symphony No. 5,REFUTES
+87,The Titanic sank in 1912,SUPPORTS
+88,The Titanic sank in 2002,REFUTES
+89,World War II ended in 1945,SUPPORTS
+90,World War II ended in 1918,REFUTES
+91,The first human Moon landing was Apollo 11,SUPPORTS
+92,The first human Moon landing was Apollo 13,REFUTES
+93,Python is a programming language,SUPPORTS
+94,Python is a database management system,REFUTES
+95,Git is a distributed version control system,SUPPORTS
+96,Git is a web browser,REFUTES
+97,The Linux kernel was created by Linus Torvalds,SUPPORTS
+98,The Linux kernel was created by Bill Gates,REFUTES
+99,The World Wide Web was invented by Tim Berners-Lee,SUPPORTS
+100,The World Wide Web was invented by Albert Einstein,REFUTES

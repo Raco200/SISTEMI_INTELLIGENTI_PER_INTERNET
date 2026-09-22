@@ -1,0 +1,2 @@
+id,claim,gold_label,predicted_label,is_correct,confidence,contradiction,entailment,neutral,subject,candidate_sentences,page,evidence
+1,andrea is a famus actor,,REFUTES,,0.9907,0.9907,0.0012,0.0081,andrea,36,Andrea Anders,"Andrea Anders (born May 10, 1975) is an American actress."

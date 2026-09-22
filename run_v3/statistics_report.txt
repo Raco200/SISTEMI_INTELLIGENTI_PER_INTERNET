@@ -1,0 +1,32 @@
+STATISTICHE FACT-CHECKING
+========================================================================
+Generato il: 2026-09-21T15:25:16
+File input: claims_100_labeled.csv
+Claim totali: 100
+Claim etichettate: 100
+Predizioni corrette: 70
+Accuracy: 70.00%
+Macro F1: 0.4583
+Confidenza media: 0.9773
+Tempo totale: 543.8 secondi
+
+DISTRIBUZIONE ETICHETTE
+------------------------------------------------------------------------
+SUPPORTS: gold=50, predette=30
+REFUTES: gold=50, predette=70
+NOT ENOUGH INFO: gold=0, predette=0
+
+MATRICE DI CONFUSIONE
+Righe = etichetta reale; colonne = predizione
+------------------------------------------------------------------------
+GOLD \ PRED                   SUPPORTS         REFUTES     NOT ENOUGH INFO
+SUPPORTS                            25              25                   0
+REFUTES                              5              45                   0
+NOT ENOUGH INFO                      0               0                   0
+
+METRICHE PER CLASSE
+------------------------------------------------------------------------
+Classe                   Precision      Recall          F1     Support
+SUPPORTS                    0.8333      0.5000      0.6250          50
+REFUTES                     0.6429      0.9000      0.7500          50
+NOT ENOUGH INFO             0.0000      0.0000      0.0000           0

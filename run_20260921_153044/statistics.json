@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-09-21T15:30:44",
+  "input_file": "manual_claim",
+  "total_claims": 1,
+  "labeled_claims": 0,
+  "correct_predictions": 0,
+  "accuracy": 0.0,
+  "macro_f1": 0.0,
+  "average_confidence": 0.9907,
+  "elapsed_seconds": 4.669245800003409,
+  "predicted_distribution": {
+    "REFUTES": 1
+  },
+  "gold_distribution": {},
+  "confusion_matrix": {
+    "SUPPORTS": {
+      "SUPPORTS": 0,
+      "REFUTES": 0,
+      "NOT ENOUGH INFO": 0
+    },
+    "REFUTES": {
+      "SUPPORTS": 0,
+      "REFUTES": 0,
+      "NOT ENOUGH INFO": 0
+    },
+    "NOT ENOUGH INFO": {
+      "SUPPORTS": 0,
+      "REFUTES": 0,
+      "NOT ENOUGH INFO": 0
+    }
+  },
+  "per_label": {
+    "SUPPORTS": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "REFUTES": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "NOT ENOUGH INFO": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  }
+}
