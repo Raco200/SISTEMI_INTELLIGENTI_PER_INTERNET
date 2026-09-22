@@ -1,6 +1,5 @@
 STATISTICHE FACT-CHECKING
 ========================================================================
-Generato il: 2026-09-21T15:30:44
 File input: manual_claim
 Claim totali: 1
 Claim etichettate: 0
