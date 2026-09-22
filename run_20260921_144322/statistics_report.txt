@@ -1,6 +1,5 @@
 STATISTICHE FACT-CHECKING
 ========================================================================
-Generato il: 2026-09-21T14:45:00
 File input: claims_100_labeled.csv
 Claim totali: 100
 Claim etichettate: 100
